@@ -1,0 +1,17 @@
+# Java build output
+**/target/
+**/out/
+**/build/
+**/bin/
+*.class
+*.log
+
+# IntelliJ IDEA
+**/.idea/
+**/*.iml
+**/*.ipr
+**/*.iws
+
+# Editors and operating systems
+**/.vscode/
+**/.DS_Store
